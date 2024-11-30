@@ -1,0 +1,8 @@
+https://angelogentileiii.medium.com/basics-of-django-model-view-template-mvt-architecture-8585aecffbf6
+https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308
+https://refactoring.guru/design-patterns/catalog
+
+^
+|
+
+Focar na parte sobre "Design Patterns", refactoring é sobre refazer códigos aparentemente

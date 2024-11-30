@@ -1,0 +1,6 @@
+        host="localhost",
+        user="root",
+        password="12345678",
+        database="mydb"
+
+        Essas são as características usadas, mas podem ser alteradas nas respectivas linhas de conexão.
